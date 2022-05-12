@@ -34,6 +34,6 @@
 
 <p align="center">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=youdevs&show_icons=true&locale=en&layout=compact" alt="youdevs" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=youdevs&show_icons=true&locale=en" alt="youdevs" /></p>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=youdevs&" alt="youdevs" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=youdevs&show_icons=true&locale=en" alt="youdevs" /></p>
+    <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youdevs&" alt="youdevs" />
 </p>
