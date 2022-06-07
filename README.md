@@ -59,8 +59,8 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youdevs&show_icons=true&locale=en&layout=compact" alt="youdevs" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youdevs&show_icons=true&locale=en" alt="youdevs" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
