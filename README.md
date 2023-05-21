@@ -1,9 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
 </div>
 
 
@@ -26,15 +24,11 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
-
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 📝 I work as a full stack web developer (Laravel, HTML, CSS, JS, MySQL, Bootstrap)
 
 - 📫 How to reach me **carlos.develops@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
-
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌱 I’m currently learning **React.js**
 
 
 <div align="left">
