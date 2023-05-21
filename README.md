@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer (Laravel, HTML, CSS, JS, MySQL, Bootstrap)
+- 📝 I work as a full stack web developer
 
 - 📫 How to reach me **carlos.develops@gmail.com**
 
